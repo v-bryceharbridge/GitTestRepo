@@ -1,6 +1,8 @@
 # GitTestRepo
 Personal testing and learning of GIT
 
+added comment 04
+
 updated with local change
 updated file on github web to pull down to local repo
 
