@@ -10,7 +10,7 @@ added gitignore with local commit, updated readme file with local commit. pushed
 
 updated gitignore and readme in dev branch
 
-
 my own change - part of merge conflict resolution
 
 comment 01
+comment 02
