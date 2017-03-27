@@ -14,5 +14,5 @@ my own change - part of merge conflict resolution
 
 comment 01
 comment 02
-
 test
+comment 03
