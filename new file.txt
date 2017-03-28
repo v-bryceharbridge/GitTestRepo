@@ -4,3 +4,5 @@ commit 3
 
 test commit for messages
 another line added
+
+commit for developerbranch
